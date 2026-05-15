@@ -11,4 +11,7 @@
 
 <div align="center">
 <img width="430" height="266" alt="paegan" src="https://github.com/user-attachments/assets/57dc0752-18ee-4e9c-8ff9-f8ebe886202a" />
+<div align="center">
+<img width="248" height="33" alt="prayer" src="https://github.com/user-attachments/assets/46d321ba-6e96-4a48-871b-2f92f551b8ca" /> 
 </div>
+
