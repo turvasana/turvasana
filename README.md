@@ -1,6 +1,6 @@
 <div align="center">
   
-   ![](https://komarev.com/ghpvc/?username=imahatred&label=dog+amount&color=FF0000) 
+   ![](https://komarev.com/ghpvc/?username=imahatred&label=sacrifice+amount&color=FF0000) 
 
    <details>
 <summary></summary>
