@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+  
+   ![](https://komarev.com/ghpvc/?username=imahatred&label=dog+amount&color=FF0000) 
 
-<!--
-**turvasana/turvasana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   <details>
+<summary></summary>
+     
+[main](https://github.com/imahatred) . [rentry](https://rentry.co/corpse-grindin-man)
+</details>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img width="430" height="266" alt="paegan" src="https://github.com/user-attachments/assets/57dc0752-18ee-4e9c-8ff9-f8ebe886202a" />
+</div>
