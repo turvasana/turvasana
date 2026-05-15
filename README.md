@@ -1,7 +1,7 @@
 
 <div align="center"> 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=ff2c2c&size=19&lines=They+wanna+label+and+call+us+all+freaks;I+speak+in+tongues,+the+only+language;i+learned+how+to+speak)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=ff2c2c&size=17&lines=They+wanna+label+and+call+us+all+freaks;I+speak+in+tongues,+the+only+language;i+learned+how+to+speak)](https://git.io/typing-svg)
 </div>
   <div align="center">
     
