@@ -10,7 +10,7 @@
    <details>
 <summary></summary>
      
-[main](https://github.com/imahatred) . [rentry](https://rentry.co/corpse-grindin-man)
+[main](https://github.com/imahatred) . [rentry](https://rentry.co/nailcollection)
 </details>
 </div>
 
